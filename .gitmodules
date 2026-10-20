@@ -181,7 +181,7 @@
 	url = ../darling-libplatform.git
 [submodule "src/external/libpthread"]
 	path = src/external/libpthread
-	url = ../darling-libpthread.git
+	url = https://github.com/VibeDarling/darling-libpthread.git
 [submodule "src/external/syslog"]
 	path = src/external/syslog
 	url = ../darling-syslog.git
@@ -382,7 +382,7 @@
 	url = ../darling-pyobjc.git
 [submodule "src/external/darlingserver"]
 	path = src/external/darlingserver
-	url = ../darlingserver.git
+	url = https://github.com/taowen/darlingserver.git
 [submodule "src/external/libmalloc"]
 	path = src/external/libmalloc
 	url = ../darling-libmalloc.git
@@ -415,7 +415,7 @@
 	url = ../darling-architecture
 [submodule "src/external/bootstrap_cmds"]
 	path = src/external/bootstrap_cmds
-	url = ../darling-bootstrap_cmds.git
+	url = https://github.com/VibeDarling/darling-bootstrap_cmds.git
 [submodule "src/external/copyfile"]
 	path = src/external/copyfile
 	url = ../darling-copyfile.git
@@ -457,4 +457,4 @@
 	url = ../darling-metal.git
 [submodule "src/external/xnu"]
 	path = src/external/xnu
-	url = ../darling-xnu.git
+	url = https://github.com/VibeDarling/darling-xnu.git
